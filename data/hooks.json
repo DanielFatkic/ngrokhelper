@@ -1,0 +1,6 @@
+{
+    "request": {
+        "type": "C",
+        "class": "\\IPS\\Request"
+    }
+}
